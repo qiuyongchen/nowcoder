@@ -1,6 +1,7 @@
 /**
  * Created by qiuyongchen on 16/7/6.
  */
+
 public class GetPower {
     public double Power(double base, int exponent) {
         if (exponent == 0) {
